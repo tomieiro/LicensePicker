@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LicenseChooser</string>
+    <string name="type1">Software</string>
+    <string name="type2">Hardware</string>
+    <string name="relicense1">Other license</string>
+    <string name="relicense2">Same license</string>
+    <string name="weak2">New files with same license</string>
+    <string name="weak1">New files with other license</string>
+    <string name="leave1">Maintain credits</string>
+    <string name="leave2">Public domain</string>
+</resources>
